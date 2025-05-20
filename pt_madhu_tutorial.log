@@ -1,0 +1,14 @@
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+  Python Radiative Transfer in a Bayesian framework (Pyrat Bay).
+  Version 1.1.6.
+  Copyright (c) 2021-2025 Patricio Cubillos.
+  Pyrat Bay is open-source software under the GNU GPLv2 lincense (see LICENSE).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Read command-line arguments from configuration file:
+'/Users/parulpahurkar/Desktop/Pyratbay/run_demo/pt_madhu.cfg'
+Creating 100-layer atmospheric model between 1.0e+08 and 1.0e+00 barye.
+
+Computed madhu temperature model.
+Output atmospheric file:
+'/Users/parulpahurkar/Desktop/Pyratbay/pt_madhu_tutorial.atm'.
